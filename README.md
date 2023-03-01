@@ -4,7 +4,7 @@ Prueba técnica para proceso de selección de FEMSA, desarrollado por Rafael Roj
 
 ## Instalación
 
-Se debe tener instalado Node para ejecutar el código (Se usó la versión 16.13.1 para el desarrollo)
+Se debe tener instalado [Node](https://nodejs.org/en/download/) para ejecutar el código (Se usó la versión 16.13.1 para el desarrollo)
 
 ## Uso
 
@@ -16,5 +16,5 @@ Luego, en la misma terminal, se solicitará el nombre de usuario. Se debe ingres
 
 El resultado aparecerá en una nueva línea, con el formato
 ```
-Salida: {verdadero o falso}
+Output: {verdadero o falso}
 ```
