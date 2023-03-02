@@ -1,6 +1,6 @@
 
 //Validations:
-const validLength = word => !!word && word.length >= 4 && word.length <= 20
+const validLength = word => !!word && word.length >= 4 && word.length <= 25
 
 const beginsWithLetter = word => !!word && /^[a-zA-Z]/.test(word)
 
